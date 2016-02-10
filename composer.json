@@ -1,7 +1,7 @@
 {
     "name": "perfectin/specification",
-    "type": "typo3-flow-package",
-    "description": "Add description here",
+    "type": "typo3-flow-framework",
+    "description": "Specifications for querying typo3 flow repository",
     "require": {
         "typo3/flow": "*"
     },
